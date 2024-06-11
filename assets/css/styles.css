@@ -416,9 +416,11 @@ nav ul li {
 
   .project-container {
     width: 20.875rem;
+    height: auto;
   }
 
   .contact-form-container {
+    margin-top: 5rem;
     max-width: 23.75rem;
   }
 
