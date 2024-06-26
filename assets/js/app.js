@@ -18,3 +18,7 @@ navLink.forEach((link) =>
   })
 );
 
+function Why() {
+  alert("Fine I'll take you to the same exact page :/")
+}
+
